@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539746985937",
+    "project_id": "bus-live-location-efc91",
+    "storage_bucket": "bus-live-location-efc91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539746985937:android:080677c995f7304102a2f0",
+        "android_client_info": {
+          "package_name": "com.buslivelocation.locationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539746985937-8j3dkbnuil1gmfq6qcats6plg5r5q5gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAVoBrJPJztmRVNdPJvtRs5aJUL50Eapw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539746985937-8j3dkbnuil1gmfq6qcats6plg5r5q5gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
